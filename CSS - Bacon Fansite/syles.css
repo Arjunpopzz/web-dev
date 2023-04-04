@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+}
+
+body {
+  background-color: white ;
+}
+.bacon:hover{
+  background:red;
+}
+img{
+  background-color:green;
+}
+
+#hi{
+     color: blue;
+
+}

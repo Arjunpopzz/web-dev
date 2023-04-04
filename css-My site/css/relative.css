@@ -1,0 +1,31 @@
+ .id{
+   width:100px;
+   height:100px;
+   background-color:red;
+   display: inline-block;
+   position:relative;
+   left:200px;
+
+
+
+
+ }
+ .ide{
+   width:100px;
+   height:100px;
+   background-color:blue;
+  display: inline-block;
+   position:relative;
+   right:100px;
+
+
+ }
+ .idea{
+   width:100px;
+   height:100px;
+   background-color:yellow;
+   display: inline-block;
+   position:relative;
+   right:100px;
+
+}
